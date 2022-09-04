@@ -497,17 +497,17 @@
   border-bottom: 1px solid #e4e8eb;
 }
 
-#footer .group-aside .partner-area {
+#footer .group-aside .partner-area-wrap {
   float: left;
   width: 780px;
   padding: 20px 0;
 }
 
-#footer .group-aside .partner-box {
+#footer .group-aside .partner-area {
   overflow: hidden;
 }
 
-#footer .group-aside .partner-box+.partner-box {
+#footer .group-aside .partner-area+.partner-area {
   margin-top: 9px;
 }
 
@@ -516,7 +516,7 @@
   width: 87px;
 }
 
-#footer .group-aside .partner-category {
+#footer .group-aside .link-partner-wrap {
   overflow: hidden;
 }
 
