@@ -88,6 +88,12 @@
   cursor: pointer;
 }
 
+#header .search .ico-search {
+  width: 22px;
+  height: 22px;
+  background-position: -420px 0;
+}
+
 #header .search-area .btn-keyboard,
 #header .search-area .btn-autocomplete {
   position: absolute;
@@ -114,10 +120,16 @@
 }
 
 #header .btn-keyboard .ico-keyboard {
+  width: 20px;
+  height: 12px;
+  background-position: -420px -402px;
   margin: -6px 0 0 -10px;
 }
 
 #header .btn-autocomplete .ico-arrow {
+  width: 10px;
+  height: 5px;
+  background-position: -408px -100px;
   margin: -2px 0 0 -5px;
 }
 
@@ -153,6 +165,9 @@
 }
 
 #header .link-junior .ico-junior {
+  width: 60px;
+  height: 10px;
+  background-position: -262px -330px;
   margin: 3px;
 }
 
@@ -165,6 +180,9 @@
 }
 
 #header .link-happybin .ico-happybin {
+  width: 34px;
+  height: 11px;
+  background-position: -369px -299px;
   margin: 3px 3px 2px;
 }
 
@@ -231,10 +249,16 @@
 }
 
 #header .gnb-list .ico-mail {
+  width: 21px;
+  height: 21px;
+  background-position: -420px -73px;
   margin: 3px 3px 0 0;
 }
 
 #header .gnb-list .ico-tv {
+  width: 12px;
+  height: 14px;
+  background-position: -444px -49px;
   margin: 9px -3px 0 0;
 }
 
@@ -297,6 +321,9 @@
 
 #header .weather-area .ico-weather {
   float: left;
+  width: 29px;
+  height: 29px;
+  background-position: -93px 0;
   margin-right: 9px;
 }
 

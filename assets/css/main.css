@@ -180,12 +180,27 @@
   opacity: .7;
 }
 
+.sc-newsstand .btn-set .ico-list {
+  width: 14px;
+  height: 13px;
+  background-position: -49px -419px;
+}
+
+.sc-newsstand .btn-set .ico-tile {
+  width: 13px;
+  height: 13px;
+  background-position: -444px -34px;
+}
+
 .sc-newsstand .btn-set.active .ico-tile {
   background-position: -444px -19px;
   opacity: 1;
 }
 
 .sc-newsstand .btn-set .ico-set {
+  width: 15px;
+  height: 15px;
+  background-position: 0 -419px;
   margin: -1px 0 1px;
 }
 
@@ -296,6 +311,14 @@
   letter-spacing: -.25px;
 }
 
+.sc-themecast .ico-play {
+  position: absolute;
+  left: 12px;
+  width: 24px;
+  height: 28px;
+  background-position: 0 -389px;
+}
+
 .sc-themecast .runtime {
   position: absolute;
   right: 8px;
@@ -380,6 +403,7 @@
 .sc-themecast .group-title .info-area .side-bar {
   height: 12px;
   margin: 0 5px;
+  vertical-align: -1px;
 }
 
 .sc-themecast .group-title .btn-set {
@@ -499,9 +523,7 @@
 }
 
 .sc-themecast .group-topstory .ico-play {
-  position: absolute;
   bottom: 9px;
-  left: 12px;
 }
 
 .sc-themecast .group-topstory .runtime {
@@ -686,9 +708,7 @@
 }
 
 .sc-themecast .media-view .ico-play {
-  position: absolute;
   bottom: 8px;
-  left: 12px;
 }
 
 .sc-themecast .media-view .info-box {
@@ -789,6 +809,9 @@
 
 .sc-themecast .btn-more .ico-more {
   display: block;
+  width: 42px;
+  height: 42px;
+  background-position: 0 -345px;
   margin: 0 auto 3px;
 }
 
@@ -819,6 +842,9 @@
 }
 
 .sc-login .link-login .ico-naver {
+  width: 60px;
+  height: 12px;
+  background-position: -138px -330px;
   margin: 2px 1px 0 0;
 }
 
@@ -1380,6 +1406,9 @@
   position: absolute;
   top: 0;
   left: 0;
+  width: 30px;
+  height: 15px;
+  background-position: -74px -54px;
 }
 
 .sc-shopcast .group-plusdeal .info-box {
